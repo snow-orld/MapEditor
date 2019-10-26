@@ -8,7 +8,7 @@ The tool is developed mainly intended to parameter-defined curved road. Driving 
 
 ### Map Creation and Editing
 
-Open the index.html file and create your roads with specified attributes in a [OpenDRIVE V1.4 Format]((http://www.opendrive.org/docs/OpenDRIVEFormatSpecRev1.4H.pdf)) like style, under the "Map Editor" tab.
+Open the index.html file and create your roads with specified attributes in a [OpenDRIVE V1.4 Format](http://www.opendrive.org/docs/OpenDRIVEFormatSpecRev1.4H.pdf) like style, under the "Map Editor" tab.
 
 After creating the roads, click the "saveAsJSON" area under the "Map Exporter" tab. Two files are saved locally. Use the "map_raw.json" file for further convertion to a OpenDRIVE file that can be imported to Matlab's Driving Scenario Tool.
 
