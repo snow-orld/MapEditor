@@ -1,0 +1,16 @@
+Todos of editor.js
+
+1. Define Class Map (the most outer class holding all the classes used in this project.)
+2. Define sub class of Map, especially a class holding the Formated json map (dots of center of lane and borders)
+3. Draw/Pave Road class on the screen
+4. Refresh on realtime when changing every details in a road
+5. Export saved roads to previously defined map format (json file)
+
+6. After accomplishing the above functions, separate map visualization part from Map total class, to be further used by "Monitor's Map Visualization part".
+
+2019-05-10 todos of editor.js
+
+1. Add elevation to all three types of geometries' generation process
+2. Change MapBuilder.Road.prototype.calculateEnd and MapBuilder.Map attributes
+2. Change track2Inertial's algorithm to get pitch value
+3. Change json to opendrive python generator to output elevation from multiple road into one road's attribute like geometries

@@ -1,0 +1,299 @@
+[
+    {
+        "id": 0,
+        "length": 10,
+        "geometries": [
+            {
+                "s": 0,
+                "type": "line",
+                "sx": 0,
+                "sy": 0,
+                "heading": 0,
+                "length": 10,
+                "spiral": {
+                    "curvStart": 0,
+                    "curvEnd": 0.1
+                },
+                "arc": {
+                    "curvature": 0.1
+                },
+                "offset": {
+                    "a": 0,
+                    "b": 0,
+                    "c": 0,
+                    "d": 0
+                }
+            }
+        ],
+        "elevations": [
+            {
+                "s": 0,
+                "a": 0,
+                "b": 0,
+                "c": 0,
+                "d": 0
+            }
+        ],
+        "laneSections": [
+            [
+                {
+                    "id": 0,
+                    "roadMark": {
+                        "type": "solid",
+                        "weight": "standard",
+                        "color": "yellow",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -1,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "broken",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -2,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "broken",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -3,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "solid",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                }
+            ]
+        ],
+        "signals": [],
+        "objects": []
+    },
+    {
+        "id": 1,
+        "length": 10,
+        "geometries": [
+            {
+                "s": 0,
+                "type": "line",
+                "sx": 10,
+                "sy": 0,
+                "heading": 0,
+                "length": 10,
+                "spiral": {
+                    "curvStart": 0,
+                    "curvEnd": 0.1
+                },
+                "arc": {
+                    "curvature": 0.1
+                },
+                "offset": {
+                    "a": 0,
+                    "b": 0,
+                    "c": 0,
+                    "d": 0
+                }
+            }
+        ],
+        "elevations": [
+            {
+                "s": 0,
+                "a": 0,
+                "b": 0,
+                "c": 0,
+                "d": 0
+            }
+        ],
+        "laneSections": [
+            [
+                {
+                    "id": 0,
+                    "roadMark": {
+                        "type": "solid",
+                        "weight": "standard",
+                        "color": "yellow",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -1,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "broken",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -2,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "broken",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -3,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "solid",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                }
+            ]
+        ],
+        "signals": [],
+        "objects": []
+    },
+    {
+        "id": 2,
+        "length": 10,
+        "geometries": [
+            {
+                "s": 0,
+                "type": "line",
+                "sx": 20,
+                "sy": 0,
+                "heading": 0,
+                "length": 10,
+                "spiral": {
+                    "curvStart": 0,
+                    "curvEnd": 0.1
+                },
+                "arc": {
+                    "curvature": 0.1
+                },
+                "offset": {
+                    "a": 0,
+                    "b": 0,
+                    "c": 0,
+                    "d": 0
+                }
+            }
+        ],
+        "elevations": [
+            {
+                "s": 0,
+                "a": 0,
+                "b": 0,
+                "c": 0,
+                "d": 0
+            }
+        ],
+        "laneSections": [
+            [
+                {
+                    "id": 0,
+                    "roadMark": {
+                        "type": "solid",
+                        "weight": "standard",
+                        "color": "yellow",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -1,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "broken",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -2,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "broken",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                },
+                {
+                    "id": -3,
+                    "width": {
+                        "s": 0,
+                        "a": 3.25,
+                        "b": 0,
+                        "c": 0,
+                        "d": 0
+                    },
+                    "roadMark": {
+                        "type": "solid",
+                        "weight": "standard",
+                        "color": "standard",
+                        "width": 0.13
+                    }
+                }
+            ]
+        ],
+        "signals": [],
+        "objects": []
+    }
+]
